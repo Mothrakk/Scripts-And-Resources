@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PySharp</name>
+    </assembly>
+    <members>
+        <member name="T:PySharp.PySharp">
+            <summary>
+            This class deals with communication between C# and Python
+            </summary>
+        </member>
+        <member name="M:PySharp.PySharp.ExecutePy(System.String,System.String,System.Boolean)">
+            <summary>
+            This method executes a Python script and returns the printed values, in case of failure, it writes errors to a file, refer to line 38
+            </summary>
+            <param name="python">Filepath to the Python interpreter, aka python.exe</param>
+            <param name="args">Filepath to the script that you want to launch, including arguments (optional) to pass. Example: @"..\script.py 2 5", with 2 and 5 being the passed arguments.</param>
+            <param name="CreateNoWindow">Set to false if you want the script's console to show up</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

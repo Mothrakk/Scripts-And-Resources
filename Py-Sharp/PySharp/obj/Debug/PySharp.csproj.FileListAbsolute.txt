@@ -1,0 +1,17 @@
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\bin\Debug\PySharp.xml
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\bin\Debug\PySharp.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\bin\Debug\PySharp.pdb
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\PySharp.csprojResolveAssemblyReference.cache
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\PySharp.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\PySharp.pdb
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\bin\Debug\PySharp.xml
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\bin\Debug\PySharp.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\bin\Debug\PySharp.pdb
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\obj\Debug\PySharp.csprojResolveAssemblyReference.cache
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\obj\Debug\PySharp.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\Resources\ExecutePy\ExecutePy\obj\Debug\PySharp.pdb
+C:\Users\Tanel\Desktop\GIT\Scripts & Resources\Py-Sharp\PySharp\bin\Debug\PySharp.xml
+C:\Users\Tanel\Desktop\GIT\Scripts & Resources\Py-Sharp\PySharp\bin\Debug\PySharp.dll
+C:\Users\Tanel\Desktop\GIT\Scripts & Resources\Py-Sharp\PySharp\bin\Debug\PySharp.pdb
+C:\Users\Tanel\Desktop\GIT\Scripts & Resources\Py-Sharp\PySharp\obj\Debug\PySharp.dll
+C:\Users\Tanel\Desktop\GIT\Scripts & Resources\Py-Sharp\PySharp\obj\Debug\PySharp.pdb

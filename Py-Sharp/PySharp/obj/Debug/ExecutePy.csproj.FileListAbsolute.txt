@@ -1,0 +1,5 @@
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\bin\Debug\ExecutePy.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\bin\Debug\ExecutePy.pdb
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\ExecutePy.csprojResolveAssemblyReference.cache
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\ExecutePy.dll
+C:\Users\Tanel\Documents\Visual Studio 2017\Projects\ExecutePy\ExecutePy\obj\Debug\ExecutePy.pdb
