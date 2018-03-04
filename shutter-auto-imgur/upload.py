@@ -11,7 +11,7 @@ with open(filepath_to_image, "rb") as file:
 	image_binary = file.read()
 
 with open(filepath_to_client_id, "r") as file:
-	client_id = file.read()
+	client_id = file.read().strip()
 
 response = post(
 	"https://api.imgur.com/3/image",

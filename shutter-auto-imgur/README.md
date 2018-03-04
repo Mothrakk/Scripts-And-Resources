@@ -10,6 +10,7 @@ Tested & developed in Linux Mint 18.3.
 * [Shutter](http://shutter-project.org/)
 * Python 3.5
   * [Requests](http://docs.python-requests.org/en/master/)
+* notify-send to show notification once uploaded
 
 ## How to use
 

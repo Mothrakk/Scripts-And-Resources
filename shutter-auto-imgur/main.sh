@@ -7,3 +7,4 @@ path_to_script+="/upload.py"
 
 imgur_link=`python3.5 $path_to_script $path_to_image_file`
 echo $imgur_link | xclip -selection clipboard # Copy to clipboard
+notify-send $imgur_link
