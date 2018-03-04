@@ -8,7 +8,7 @@ Tested & developed in Linux Mint 18.3.
 * BASH
 * [xclip](https://github.com/astrand/xclip)
 * [Shutter](http://shutter-project.org/)
-* Python 3.5
+* Python 3
   * [Requests](http://docs.python-requests.org/en/master/)
 * notify-send to show notification once uploaded
 
